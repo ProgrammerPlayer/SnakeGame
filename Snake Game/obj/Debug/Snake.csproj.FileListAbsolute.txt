@@ -1,0 +1,9 @@
+D:\c++ projects\Snake\Snake\bin\Debug\Snake.exe.config
+D:\c++ projects\Snake\Snake\bin\Debug\Snake.exe
+D:\c++ projects\Snake\Snake\bin\Debug\Snake.pdb
+D:\c++ projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\c++ projects\Snake\Snake\obj\Debug\Snake.frmMain.resources
+D:\c++ projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\c++ projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+D:\c++ projects\Snake\Snake\obj\Debug\Snake.exe
+D:\c++ projects\Snake\Snake\obj\Debug\Snake.pdb
